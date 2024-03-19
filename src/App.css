@@ -4,8 +4,8 @@
 
 .App-logo {
   margin-top: 5vmin;
-  height: 30vmin;
-  width: 30vmin;
+  height: 200px;
+  width: 200px;
   pointer-events: none;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .section {
-  padding: 4vh 8vh;
+  padding: 2vh 6vh;
   background-color: #282c34;
   display: flex;
   flex-direction: column;
@@ -41,36 +41,39 @@
   font-size: 16px;
   margin: 5px 0;
   color: #61dafb;
-  margin-left: 1vh;
+  margin-left: 7px;
 }
 
 .link-list {
   display: flex;
   flex-direction: row;
-  padding: 10px 0;
+  padding: 2vmin 0;
 }
 
 .App-link {
   color: #61dafb;
-  margin-right: 8vh;
+  margin-right: 60px;
+  font-size: 25px;
 }
 
 .App-header h2 {
+  font-size: 40px;
   margin: 10px 0;
+  padding: 0 0 40px;
 }
 
 .custom-text {
   font-size: 16px;
   margin: 5px 0;
   color: white;
-  margin-left: 1vh;
+  margin-left: 7px;
 }
 
 .sub-text {
   font-size: 16px;
   margin: 5px 0;
   color: #61dafb;
-  margin-left: 3vh;
+  margin-left: 14px;
 }
 
 .header-text {
